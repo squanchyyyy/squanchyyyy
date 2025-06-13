@@ -62,9 +62,9 @@
 <!--### 🧾 Others (they look a little familiar🤔)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)-->
-<br>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=squanchyyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=squanchyyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> 
 <!--![](https://nirzak-streak-stats.vercel.app/?user=squanchyyyy&theme=dark&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=squanchyyyy&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
