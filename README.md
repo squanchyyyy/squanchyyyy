@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at MMU, Cyberjaya.<br>🌱 I'm currently learning how to use GitHub.<br>📫 How to reach me: lewengjean@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: The name squanchy comes from a character in the show "Rick and Morty". I DO NOT resemble him at all i just thought the name was funny yea
+🔭 I’m currently studying at MMU, Cyberjaya.<br>🌱 I'm currently learning how to use GitHub.<br>📫 How to reach me: lewengjean@gmail.com<br>😄 Pronouns: she/her<br>⚡ 
 
 
 ## 🌐 Socials:
